@@ -1,0 +1,12 @@
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\bin\Release\MyEasyBuy.DAL.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\bin\Release\MyEasyBuy.Common.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\bin\Release\MyEasyBuy.DBUtility.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\bin\Release\MyEasyBuy.Model.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\bin\Release\MySql.Data.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\bin\Release\OpenSmtp.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\bin\Release\Excel.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\bin\Release\COM.Excel.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\bin\Release\IBatisNet.DataMapper.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\bin\Release\IBatisNet.Common.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\obj\Release\MyEasyBuy.DAL.csprojResolveAssemblyReference.cache
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DAL\obj\Release\MyEasyBuy.DAL.dll

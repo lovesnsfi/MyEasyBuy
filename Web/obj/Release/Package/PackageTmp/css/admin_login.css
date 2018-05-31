@@ -1,0 +1,98 @@
+/* 类选择器 */
+.main_bar{
+	width:1350px;
+	height:350px;
+	background-color:#6495ED;
+	margin:140px auto;
+}
+/*id选择器*/
+#login_form{
+	height:100%;
+	width:540px;
+	margin:0 auto;
+	margin-left:30%;
+	background-color:#112435;
+}
+.title{
+	width:100%;
+	height:55px;
+	color:#ffffff;
+	border-bottom:1px solid #ffffff;
+	font-size:20pt;
+	font-family:"微软雅黑";
+	line-height:55px;	/*设置行高*/
+	text-align:center; /*设置文本居中*/
+}
+#form_widget{
+	width:100%;
+	height:295px;
+	background-color:#808080;
+}
+.txt{
+	display:block;/*设置为独立块(换行)*/
+	width:378px;
+	margin:0 auto;/* margin-left:10% */
+	margin-left:15%;
+	height:35px;
+	line-height:35px;
+	font-size:15pt;	
+	border-radius:8px;
+	border:0;
+	padding-left:8px;
+}
+#vcode{
+	height:35px;
+	width: 40%;
+	line-height:35px;
+	font-size:15pt;
+	margin-left:15%;
+	border-radius:8px;
+	padding-left:8px;
+	border:0;
+}
+#code{
+	color:#ffffff;/*字体颜色白色*/
+	background-color:#000000;
+	font-size:20pt;
+	font-family:"华康娃娃体W5";
+	padding:3px 38px 8px 38px;
+	margin-left:5%;/*25%*/
+	cursor:pointer;
+}
+#search_pass_link{
+	width:378px;
+	text-align:right;
+	padding:5px;
+	margin:0 auto;
+	margin-left:15%;
+}
+/*层级选择器*/
+#search_pass_link a{
+	color:#000000;
+	text-decoration:none;
+}
+/*伪类*/
+#search_pass_link a:hover{
+	color:#ff0000;
+	text-decoration:underline;
+}
+.btn{
+	width:70%;
+	height:40px;
+	margin-left:15%;
+	border:0;
+	font-size:14pt;
+	font-family:"微软雅黑";
+	background-color:#FC5628;
+	color:#ffffff;
+	cursor:pointer;/*设置鼠标指针样式*/
+	border-radius:20px;/*设置圆角边框 css3+ */
+}
+#copyright{
+	width:100%;
+	text-align:center;
+	padding-top:20px;
+	font-family:"微软雅黑";
+	color:#E0E0E0;
+	
+}

@@ -1,0 +1,9 @@
+C:\CodematicDemo\MyEasyBuy\Common\bin\Debug\MyEasyBuy.Common.dll
+C:\CodematicDemo\MyEasyBuy\Common\bin\Debug\MyEasyBuy.Common.pdb
+C:\CodematicDemo\MyEasyBuy\Common\bin\Debug\COM.Excel.dll
+C:\CodematicDemo\MyEasyBuy\Common\bin\Debug\Excel.dll
+C:\CodematicDemo\MyEasyBuy\Common\bin\Debug\OpenSmtp.dll
+C:\CodematicDemo\MyEasyBuy\Common\bin\Debug\OWC10Chart.dll
+C:\CodematicDemo\MyEasyBuy\Common\obj\Debug\MyEasyBuy.Common.dll
+C:\CodematicDemo\MyEasyBuy\Common\obj\Debug\MyEasyBuy.Common.pdb
+C:\CodematicDemo\MyEasyBuy\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

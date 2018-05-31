@@ -1,0 +1,6 @@
+﻿2016/7/12 19:34:09【邮件发送成功】,发送地址为：365055754@qq.com
+2016/7/12 21:12:40【邮件发送成功】,发送地址为：mh475201314@163.com
+2016/7/12 21:24:33【邮件取消错误】,发送地址为：mh475201314@163.com，【错误信息】事务失败。 服务器响应为:MI:SPB UserReject 0,smtp5,D9GowADHHDmE74RX7cg6AA--.482S2 1468329861,please feedback at http://feedback.mail.126.com/antispam/complain.php?user=mh475201314@163.com
+2016/7/12 22:20:50【邮件取消错误】,发送地址为：365055754@qq.com，【错误信息】事务失败。 服务器响应为:MI:SPB UserReject 0,smtp2,DNGowAAnsDm0_IRXjNkgAA--.4561S2 1468333238,please feedback at http://feedback.mail.126.com/antispam/complain.php?user=mh475201314@163.com
+2016/7/13 14:10:21【邮件发送成功】,发送地址为：1512319001@qq.com
+2016/7/15 10:42:24【邮件发送成功】,发送地址为：315862307@qq.com

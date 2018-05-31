@@ -1,0 +1,6 @@
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DBUtility\bin\Release\MyEasyBuy.DBUtility.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DBUtility\bin\Release\IBatisNet.Common.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DBUtility\bin\Release\IBatisNet.DataMapper.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DBUtility\bin\Release\MySql.Data.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DBUtility\obj\Release\MyEasyBuy.DBUtility.csprojResolveAssemblyReference.cache
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\DBUtility\obj\Release\MyEasyBuy.DBUtility.dll

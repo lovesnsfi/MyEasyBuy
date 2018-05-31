@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\新建文件夹</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddCategory.aspx">
+      <publishTime>07/07/2016 14:17:50</publishTime>
+    </File>
+    <File Include="AddGoods.aspx">
+      <publishTime>07/07/2016 16:22:30</publishTime>
+    </File>
+    <File Include="AdminIndex.html">
+      <publishTime>07/19/2016 00:33:36</publishTime>
+    </File>
+    <File Include="ashx/CategoryHandler.ashx">
+      <publishTime>07/07/2016 14:36:21</publishTime>
+    </File>
+    <File Include="ashx/CrmInfo.ashx">
+      <publishTime>07/07/2016 20:42:03</publishTime>
+    </File>
+    <File Include="bin/COM.Excel.dll">
+      <publishTime>03/20/2013 11:32:56</publishTime>
+    </File>
+    <File Include="bin/Excel.dll">
+      <publishTime>03/20/2013 11:32:58</publishTime>
+    </File>
+    <File Include="bin/IBatisNet.Common.dll">
+      <publishTime>03/20/2013 11:32:56</publishTime>
+    </File>
+    <File Include="bin/IBatisNet.DataMapper.dll">
+      <publishTime>03/20/2013 11:33:04</publishTime>
+    </File>
+    <File Include="bin/LTP.Accounts.dll">
+      <publishTime>03/20/2013 11:33:00</publishTime>
+    </File>
+    <File Include="bin/LtpPageControl.dll">
+      <publishTime>03/20/2013 11:33:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.UI.WebControls.dll">
+      <publishTime>03/20/2013 11:32:58</publishTime>
+    </File>
+    <File Include="bin/MyEasyBuy.BLL.dll">
+      <publishTime>09/22/2016 16:56:50</publishTime>
+    </File>
+    <File Include="bin/MyEasyBuy.Common.dll">
+      <publishTime>07/17/2016 13:50:41</publishTime>
+    </File>
+    <File Include="bin/MyEasyBuy.DAL.dll">
+      <publishTime>09/22/2016 16:56:49</publishTime>
+    </File>
+    <File Include="bin/MyEasyBuy.DBUtility.dll">
+      <publishTime>09/22/2016 16:56:48</publishTime>
+    </File>
+    <File Include="bin/MyEasyBuy.Model.dll">
+      <publishTime>07/17/2016 13:50:40</publishTime>
+    </File>
+    <File Include="bin/MyEasyBuy.Web.dll">
+      <publishTime>09/22/2016 16:56:52</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>03/20/2013 11:33:00</publishTime>
+    </File>
+    <File Include="bin/OpenSmtp.dll">
+      <publishTime>03/20/2013 11:33:04</publishTime>
+    </File>
+    <File Include="bin/System.Data.SQLite.dll">
+      <publishTime>03/20/2013 11:33:06</publishTime>
+    </File>
+    <File Include="CategoryList.aspx">
+      <publishTime>07/13/2016 16:31:38</publishTime>
+    </File>
+    <File Include="crm/GoodsInfo.aspx">
+      <publishTime>07/13/2016 17:35:40</publishTime>
+    </File>
+    <File Include="crm/index.aspx">
+      <publishTime>07/17/2016 08:50:36</publishTime>
+    </File>
+    <File Include="crm/Login.aspx">
+      <publishTime>08/10/2016 10:11:20</publishTime>
+    </File>
+    <File Include="crm/LoginBak.aspx">
+      <publishTime>07/13/2016 21:14:46</publishTime>
+    </File>
+    <File Include="crm/Regist.aspx">
+      <publishTime>07/13/2016 19:32:20</publishTime>
+    </File>
+    <File Include="crm/ShoppingCartList.aspx">
+      <publishTime>07/12/2016 22:25:20</publishTime>
+    </File>
+    <File Include="crm/ValidateCode.aspx">
+      <publishTime>07/12/2016 15:43:27</publishTime>
+    </File>
+    <File Include="css/admin_login.css">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="css/comm.css">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="css/easyui.css">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="css/main.css">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/06/2016 15:08:58</publishTime>
+    </File>
+    <File Include="GoodsList.aspx">
+      <publishTime>07/13/2016 17:35:56</publishTime>
+    </File>
+    <File Include="images/a03.gif">
+      <publishTime>07/11/2016 15:27:00</publishTime>
+    </File>
+    <File Include="images/a09.jpg">
+      <publishTime>07/11/2016 15:27:00</publishTime>
+    </File>
+    <File Include="images/calendar_nextmonth.gif">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/calendar_nextyear.gif">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/calendar_prevmonth.gif">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/calendar_prevyear.gif">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/close1.png">
+      <publishTime>07/13/2016 17:08:52</publishTime>
+    </File>
+    <File Include="images/delete.png">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/headbg.jpg">
+      <publishTime>07/12/2016 09:31:31</publishTime>
+    </File>
+    <File Include="images/holder.png">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/IMG_0586.JPG">
+      <publishTime>07/12/2016 22:43:05</publishTime>
+    </File>
+    <File Include="images/info.png">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/jia.jpg">
+      <publishTime>07/07/2016 20:27:25</publishTime>
+    </File>
+    <File Include="images/jian.png">
+      <publishTime>07/07/2016 20:27:25</publishTime>
+    </File>
+    <File Include="images/LoginBg.jpg">
+      <publishTime>07/13/2016 19:30:54</publishTime>
+    </File>
+    <File Include="images/login_1.jpg">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/login_2.jpg">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/login_3.jpg">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/login_4.jpg">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="images/logo1.png">
+      <publishTime>07/06/2016 14:33:58</publishTime>
+    </File>
+    <File Include="images/pwd-icons-new.png">
+      <publishTime>07/13/2016 19:36:01</publishTime>
+    </File>
+    <File Include="images/sub2.jpg">
+      <publishTime>07/06/2016 14:33:58</publishTime>
+    </File>
+    <File Include="images/taiyang.png">
+      <publishTime>07/06/2016 14:33:58</publishTime>
+    </File>
+    <File Include="images/taiyang2.png">
+      <publishTime>07/06/2016 14:33:58</publishTime>
+    </File>
+    <File Include="images/title.jpg">
+      <publishTime>07/06/2016 14:33:58</publishTime>
+    </File>
+    <File Include="images/update.png">
+      <publishTime>07/06/2016 14:33:58</publishTime>
+    </File>
+    <File Include="js/admin_login.js">
+      <publishTime>07/06/2016 14:33:58</publishTime>
+    </File>
+    <File Include="js/comm.js">
+      <publishTime>07/11/2016 00:40:12</publishTime>
+    </File>
+    <File Include="js/jquery-1.8.3.min.js">
+      <publishTime>07/06/2016 14:33:58</publishTime>
+    </File>
+    <File Include="js/jquery.easyui.min.js">
+      <publishTime>07/06/2016 14:33:58</publishTime>
+    </File>
+    <File Include="js/jquery.fullcalendar.js">
+      <publishTime>07/06/2016 14:33:58</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/calendar.js">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/lang/en.js">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/lang/zh-cn.js">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/lang/zh-tw.js">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/skin/datePicker.gif">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/skin/default/datepicker.css">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/skin/default/img.gif">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/skin/WdatePicker.css">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/skin/whyGreen/bg.jpg">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/skin/whyGreen/datepicker.css">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/skin/whyGreen/img.gif">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/WdatePicker.js">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/开发包/lang/en.js">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/开发包/lang/zh-cn.js">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/开发包/lang/zh-tw.js">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/开发包/readme.txt">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/开发包/skin/datePicker.gif">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/开发包/skin/default/datepicker.css">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/开发包/skin/default/img.gif">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/开发包/skin/WdatePicker.css">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/开发包/skin/whyGreen/bg.jpg">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/开发包/skin/whyGreen/datepicker.css">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/My97DatePicker/开发包/skin/whyGreen/img.gif">
+      <publishTime>07/12/2016 10:04:33</publishTime>
+    </File>
+    <File Include="js/RegistJs.js">
+      <publishTime>07/13/2016 16:42:18</publishTime>
+    </File>
+    <File Include="Log/RegistMail.txt">
+      <publishTime>07/12/2016 14:51:39</publishTime>
+    </File>
+    <File Include="Log/RegistRoleText.txt">
+      <publishTime>07/13/2016 17:26:02</publishTime>
+    </File>
+    <File Include="Log/SendMailLog.txt">
+      <publishTime>07/15/2016 10:42:24</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>07/17/2016 13:46:45</publishTime>
+    </File>
+    <File Include="Menu.aspx">
+      <publishTime>07/07/2016 19:20:35</publishTime>
+    </File>
+    <File Include="MyEasyBuy.csproj">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="MyEasyBuy.csproj.user">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="Top.aspx">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+    <File Include="ValidateCode.aspx">
+      <publishTime>07/06/2016 15:08:58</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/12/2016 11:20:40</publishTime>
+    </File>
+    <File Include="WelCome.aspx">
+      <publishTime>07/06/2016 14:33:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

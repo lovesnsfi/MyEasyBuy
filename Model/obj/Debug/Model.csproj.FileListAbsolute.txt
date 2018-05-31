@@ -1,0 +1,4 @@
+C:\CodematicDemo\MyEasyBuy\Model\bin\Debug\MyEasyBuy.Model.dll
+C:\CodematicDemo\MyEasyBuy\Model\bin\Debug\MyEasyBuy.Model.pdb
+C:\CodematicDemo\MyEasyBuy\Model\obj\Debug\MyEasyBuy.Model.dll
+C:\CodematicDemo\MyEasyBuy\Model\obj\Debug\MyEasyBuy.Model.pdb

@@ -1,0 +1,9 @@
+﻿尊敬的 ${UserName} 你好!
+欢迎注册 MyEasyBuy购物商城！
+您的登陆名为 ${UserName}；
+注册时间为 ${RegistDate}；
+注册IP为 ${RegistIP}
+如有任何疑问，请回复邮件，谢谢！MyEasyBuy祝您购物愉快！
+
+    MyEasyBuy购物商城
+	${RegistDate}

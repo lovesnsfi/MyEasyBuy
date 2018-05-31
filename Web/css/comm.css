@@ -1,0 +1,61 @@
+.btn{
+		width:30%;
+		height:40px;
+		border:0;
+		font-size:14pt;
+		font-family:"微软雅黑";
+		background-color:#FC5628;
+		color:#ffffff;
+		cursor:pointer;/*设置鼠标指针样式*/
+		border-radius:20px;/*设置圆角边框 css3+ */
+	}
+.btn:hover{
+	background-color:#FF8D00;
+}	
+body{
+		margin:0;
+		padding:0;
+	}
+.title{
+	width:100%;
+	height:40px;
+	background-color:#E0366E;
+	line-height:40px;
+	border-left: 1px #eee solid;
+	color:#fff;
+	padding-left:20px;
+	font-style:bold;	
+}
+.title,.txt,table td{
+	font-family:"microsoft yahei";
+	font-size:12px;
+}
+.form_box{
+	width:100%;
+	height:100%;
+	padding:5px;
+}
+
+table th{
+	background-color:#112435;
+	color:#ffffff;
+	font-family:"黑体";
+	font-size:12px;
+}
+
+.form_box table{
+	width:100%;
+	height:40%;
+	border:1px solid #B6BCCC;
+}
+.form_box table td{
+	padding:5px;
+}
+.txt{
+	width:70%;
+	height:30px;
+	line-height:30px;
+	font-size:12px;
+	resize:none;
+	padding-left:5px;
+}

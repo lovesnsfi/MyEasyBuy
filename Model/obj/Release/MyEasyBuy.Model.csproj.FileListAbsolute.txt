@@ -1,0 +1,2 @@
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\Model\bin\Release\MyEasyBuy.Model.dll
+E:\杨标的工作文件\校外实习\长江大学\NET\测试\MyEasyBuy\Model\obj\Release\MyEasyBuy.Model.dll

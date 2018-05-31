@@ -1,0 +1,9 @@
+C:\CodematicDemo\MyEasyBuy\DBUtility\bin\Debug\MyEasyBuy.DBUtility.dll
+C:\CodematicDemo\MyEasyBuy\DBUtility\bin\Debug\MyEasyBuy.DBUtility.pdb
+C:\CodematicDemo\MyEasyBuy\DBUtility\bin\Debug\IBatisNet.Common.dll
+C:\CodematicDemo\MyEasyBuy\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+C:\CodematicDemo\MyEasyBuy\DBUtility\bin\Debug\MySql.Data.dll
+C:\CodematicDemo\MyEasyBuy\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\CodematicDemo\MyEasyBuy\DBUtility\obj\Debug\MyEasyBuy.DBUtility.dll
+C:\CodematicDemo\MyEasyBuy\DBUtility\obj\Debug\MyEasyBuy.DBUtility.pdb
+C:\CodematicDemo\MyEasyBuy\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
